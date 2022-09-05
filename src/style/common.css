@@ -1,0 +1,13 @@
+.container {
+  padding: 0 375px 0 375px;
+}
+
+@media screen and (max-width: 1260px) {
+  .container {
+    padding: 0 20px 0 20px;
+  }
+}
+
+.full-height {
+  height: 100vh;
+}
