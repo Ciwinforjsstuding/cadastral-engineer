@@ -2,5 +2,5 @@ const { defineConfig } = require('@vue/cli-service')
 
 module.exports = defineConfig({
     transpileDependencies: true,
-    publicPath: 'cadastral-engineer'
+    publicPath: 'cadastral-engineer',
   })
